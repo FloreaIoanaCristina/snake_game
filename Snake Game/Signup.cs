@@ -21,8 +21,8 @@ namespace Snake_Game
         
         IFirebaseConfig config = new FirebaseConfig
         {
-            AuthSecret = "aat8x6msYBoBp32CEWmGnKnxvSxzB1paVas5Ogpk",
-            BasePath = "https://snake-cfe77-default-rtdb.firebaseio.com/"
+            AuthSecret = "**********************",
+            BasePath = "https://*************.firebaseio.com/"
         };
         IFirebaseClient client;
 
