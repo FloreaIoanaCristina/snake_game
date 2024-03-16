@@ -1,0 +1,56 @@
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\obj\Debug\Snake Game.csproj.AssemblyReference.cache
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\obj\Debug\Snake_Game.GameTab.resources
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\obj\Debug\Snake_Game.MainMenu.resources
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\obj\Debug\Snake_Game.Properties.Resources.resources
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\obj\Debug\Snake Game.csproj.GenerateResource.cache
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\obj\Debug\Snake Game.csproj.CoreCompileInputs.cache
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\bin\Debug\Snake Game.exe.config
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\bin\Debug\Snake Game.exe
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\bin\Debug\Snake Game.pdb
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\obj\Debug\Snake Game.exe
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\obj\Debug\Snake Game.pdb
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\bin\Debug\FireSharp.dll
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\bin\Debug\RestSharp.dll
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\bin\Debug\RestSharp.xml
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\obj\Debug\Snake Game.csproj.CopyComplete
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\obj\Debug\Snake_Game.Login.resources
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\obj\Debug\Snake_Game.Signup.resources
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\bin\Debug\FirebaseAdmin.dll
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\bin\Debug\Google.Api.Gax.dll
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\bin\Debug\Google.Api.Gax.Rest.dll
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\bin\Debug\Google.Apis.Core.dll
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\bin\Debug\Google.Apis.dll
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\bin\Debug\System.Buffers.dll
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\bin\Debug\System.Memory.dll
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\bin\Debug\FirebaseAdmin.xml
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\bin\Debug\Google.Api.Gax.pdb
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\bin\Debug\Google.Api.Gax.xml
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\bin\Debug\Google.Api.Gax.Rest.pdb
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\bin\Debug\Google.Api.Gax.Rest.xml
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\bin\Debug\Google.Apis.pdb
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\bin\Debug\Google.Apis.xml
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\bin\Debug\Google.Apis.Core.xml
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\bin\Debug\System.Buffers.xml
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\bin\Debug\System.Memory.xml
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\bin\Debug\Firebase.Auth.dll
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ioana\source\repos\Snake Game\Snake Game\bin\Debug\System.Diagnostics.DiagnosticSource.xml
