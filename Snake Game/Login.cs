@@ -60,7 +60,7 @@ namespace Snake_Game
                         String email = response.Body;
                         String trim_email = email.Substring(1, email.Length - 2);
 
-                        var auth = new FirebaseAuthProvider(new Firebase.Auth.FirebaseConfig("AIzaSyB2SCPsjXF62_ufKcgbY1eCYkl4xNmRcBY"));
+                        var auth = new FirebaseAuthProvider(new Firebase.Auth.FirebaseConfig("**********************"));
                             var result = await auth.SignInWithEmailAndPasswordAsync(trim_email, textBoxPassword.Text);
                             var user = result.User;
 
