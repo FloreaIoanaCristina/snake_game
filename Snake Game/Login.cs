@@ -19,14 +19,14 @@ namespace Snake_Game
 {
     public partial class Login : Form
     {
-        //string pathToFirebaseCredentials = "C:/Users/Ioana/Downloads/snake-cfe77-firebase-adminsdk-d8amd-b10294df58.json";
+        //string pathToFirebaseCredentials = "***************************";
 
         public String username;
 
         IFirebaseConfig config = new FireSharp.Config.FirebaseConfig
         {
-            AuthSecret = "aat8x6msYBoBp32CEWmGnKnxvSxzB1paVas5Ogpk",
-            BasePath = "https://snake-cfe77-default-rtdb.firebaseio.com/"
+            AuthSecret = "***********************",
+            BasePath = "https://**********.firebaseio.com/"
         };
 
         IFirebaseClient client;
